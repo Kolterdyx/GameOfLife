@@ -1,4 +1,4 @@
-##EN - English
+#EN - English
 
 * ESC - Exit
 * C - Clear screen
@@ -12,7 +12,7 @@
 
 ───────────────────────────────────────────────────
 
-##ES - Español
+#ES - Español
 
 * ESC - Salir
 * C - Vaciar la pantalla
